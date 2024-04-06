@@ -43,7 +43,7 @@ export const TODOS: Todo[] = [
     title: "Tache 5",
     content: "Description de TOTO",
     author: "Charoxy",
-    isCompleted: false,
+    isCompleted: true,
     createdAt: new Date(),
     completedAt: null
   },
@@ -52,7 +52,7 @@ export const TODOS: Todo[] = [
     title: "Tache 6",
     content: "Description de HELLO WORLD",
     author: "Charoxy",
-    isCompleted: false,
+    isCompleted: true,
     createdAt: new Date(),
     completedAt: null
   },
